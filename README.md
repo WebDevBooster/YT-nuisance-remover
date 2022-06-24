@@ -6,13 +6,15 @@ Tested in Chrome but should work in other browsers like Firefox just as well.
 
 Here's what it does: 
 
-### 1) Remove annoying/useless button labels:
+## 1) Remove annoying/useless button labels:
 
 ![YouTube button labels before](./resources/yt-btn-labels-before.png)
 
 ![YouTube button labels after](./resources/yt-btn-labels-after.png)
 
-### 2) Remove annoying baby-sitter boxes:
+--- 
+
+## 2) Remove annoying baby-sitter boxes:
 
 ![YouTube clarity box before](./resources/yt-clarify-box-before.png)
 
