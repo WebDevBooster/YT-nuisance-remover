@@ -2,7 +2,7 @@
     "manifest_version" : 2,
     "name" : "YT Nuisance Remover",
     "description" : "Remove nuisance like buttons labels (SHARE/SAVE etc.) under YouTube videos. They often hide the date of the video release. Also, removes annoying 'baby-sitter' boxes.",
-    "version" : "1.0.0",
+    "version" : "1.0.1",
     "page_action" : {
         "default_title" : "YTNuisanceRemover",
         "default_popup" : "popup.html"
