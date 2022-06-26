@@ -18,10 +18,15 @@ Here's what it does:
 
 ![YouTube clarity box before](./resources/yt-clarify-box-before.png)
 
+Not only are those 'babysitter boxes' annoying because they try to push someone else's opinion (or propaganda) over the topic discussed in the video and don't offer a way to opt out of that ridiculous babysitter nonsense (trying to 'babysit' me as an adult). 
+
+Those 'babysitter boxes' are also annoying because they push important content (like video title, view count and the buttons) down! 
+
 ![YouTube clarity box after](./resources/yt-clarify-box-after.png)
 
 The info icon under the lower right corner of the video only appears if YouTube wants to show a 'babysitter box'. 
 
 And even when that info icon appears, it does NOT push the other content down! 
 
+So, that info icon is *deliberately tiny* and tucked away in the corner because it's designed *to be used with a mouse* on a desktop/laptop (which is the only place where the Chrome browser allows you to install extensions like this one). And while Firefox allows installing extensions on a smartphone or tablet, I haven't tested it there. 
 
