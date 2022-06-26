@@ -20,6 +20,8 @@ Here's what it does:
 
 ![YouTube clarity box after](./resources/yt-clarify-box-after.png)
 
+The info icon under the lower right corner of the video only appears if YouTube wants to show a 'babysitter box'. 
 
+And even when that info icon appears, it does NOT push the other content down! 
 
 
