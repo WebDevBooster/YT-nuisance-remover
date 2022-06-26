@@ -18,7 +18,7 @@ Here's what it does:
 
 ![YouTube clarity box before](./resources/yt-clarify-box-before.png)
 
-![YouTube clarity box before](./resources/yt-clarify-box-after.png)
+![YouTube clarity box after](./resources/yt-clarify-box-after.png)
 
 
 
