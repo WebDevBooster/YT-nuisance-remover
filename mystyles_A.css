@@ -19,3 +19,13 @@ because otherwise the button would disappear.
 .ytnr-adjust-bottom-margin {
     margin-bottom: 0 !important;
 }
+
+/* Version 2 (after Youtube UI update) */
+#top-row {
+    flex-wrap: wrap;
+}
+
+.vidiq-video-page-menu {
+    margin: 5px 10px !important;
+}
+
